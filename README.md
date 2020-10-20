@@ -5,6 +5,7 @@
   * [Data](#data)
   * [Installation](#installation)
   * [About files](#about-files)
+  * [Technical Approach](#technical-approach)
   
 ## Problem Statement
 This problem statement was part of a HackerEarth competition called "HackerEarth Machine Learning challenge: Adopt a buddy".
@@ -32,9 +33,19 @@ The Code is written in Python 3.7.6. If you don't have Python installed you can 
 pip install -r requirements.txt
 ```
 ## About files
-  - train.csv : Input train file
-  - test.csv : Input test file
-  - train_updated.csv / test_updated.csv : Modified train/test file after running EDA-1
-  - train_norm.csv / test_norm.csv : Modified train_updated/test_updated file after running EDA-2 and Feature Generation
-  - predicted_test_pet : Predicted pet category for test data after running Pet_prediction
-  - submission : File containing predicted pet and breed category for test data after running Breed_predict  
+  - train.csv : Input train file.
+  - test.csv : Input test file.
+  - train_updated.csv / test_updated.csv : Modified train/test file after running EDA-1 and Feature Generation.
+  - train_norm.csv / test_norm.csv : Modified train_updated/test_updated file after running EDA-2 and Feature Generation.
+  - predicted_test_pet : Predicted pet category for test data after running Pet_prediction.
+  - submission : File containing predicted pet and breed category for test data after running Breed_predict.
+ 
+ ## Technical Approach
+ This project is divided into three part:
+ 1. Performing EDA(Exploratory Data Analysis) to understand data much better.
+ 2. Generating new Features.
+ 3. Using ensemble technique to predict pet and breed categories.
+  - Interesting knowledge about data is incurred from EDA-1 and Feature Generation file where new feature namely date_diff is generated and nan values are handled.
+  - EDA-2 and Feature Generation delves into data and handles the categorical feature namely color_type. Two pairplots are even generated to see the distribution of data and get further more understanding of the same.
+  - Ensemble technique namely XGBoost is used to make predictions.
+ 

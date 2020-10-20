@@ -56,7 +56,6 @@ pip install -r requirements.txt
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
  
 [<img target="_blank" src="https://matplotlib.org/_static/logo2_compressed.svg" width=100>](https://matplotlib.org/)[<img target="_blank" src="https://numpy.org/images/logos/numpy.svg" width=100 height=100>](https://numpy.org/)
-
 [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=100>](https://scikit-learn.org/stable/)[<img target="_blank" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width=100>](https://seaborn.pydata.org/)
 
 ## Team

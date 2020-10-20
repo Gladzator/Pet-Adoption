@@ -6,6 +6,9 @@
   * [Installation](#installation)
   * [About files](#about-files)
   * [Technical Approach](#technical-approach)
+  * [Technologies/Libraries Used](#technologies/libraries-used)
+  * [Team](#team)
+  * [Credits](#credits)
   
 ## Problem Statement
 This problem statement was part of a HackerEarth competition called "HackerEarth Machine Learning challenge: Adopt a buddy".
@@ -49,8 +52,19 @@ pip install -r requirements.txt
   - EDA-2 and Feature Generation delves into data and handles the categorical feature namely color_type. Two pairplots are even generated to see the distribution of data and get further more understanding of the same.
   - Ensemble technique namely XGBoost is used to make predictions.
   
- ## Technologies/Libraries Used
- ![](https://forthebadge.com/images/badges/made-with-python.svg)
+## Technologies/Libraries Used
+![](https://forthebadge.com/images/badges/made-with-python.svg)
  
-[<img target="_blank" src="https://matplotlib.org/_static/logo2_compressed.svg" width=200>](https://matplotlib.org/)[<img target="_blank" src="https://numpy.org/images/logos/numpy.svg" width=200>](https://numpy.org/)[<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/)[<img target="_blank" src="https://seaborn.pydata.org/" width=200>](https://seaborn.pydata.org/)
+[<img target="_blank" src="https://matplotlib.org/_static/logo2_compressed.svg" width=100>](https://matplotlib.org/)[<img target="_blank" src="https://numpy.org/images/logos/numpy.svg" width=100 height=100>](https://numpy.org/)
+
+[<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=100>](https://scikit-learn.org/stable/)[<img target="_blank" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width=100>](https://seaborn.pydata.org/)
+
+## Team
+[![Yash Vora](https://avatars2.githubusercontent.com/u/40065133?s=460&v=4)]|
+-|
+Yash Vora
+
+## Credits
+I want to give massive credits to the HackerEarth team without which this project wouldn't have been possible.
+
  

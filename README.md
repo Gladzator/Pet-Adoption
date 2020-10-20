@@ -48,4 +48,9 @@ pip install -r requirements.txt
   - Interesting knowledge about data is incurred from EDA-1 and Feature Generation file where new feature namely date_diff is generated and nan values are handled.
   - EDA-2 and Feature Generation delves into data and handles the categorical feature namely color_type. Two pairplots are even generated to see the distribution of data and get further more understanding of the same.
   - Ensemble technique namely XGBoost is used to make predictions.
+  
+ ## Technologies/Libraries Used
+ ![](https://forthebadge.com/images/badges/made-with-python.svg)
+ 
+[<img target="_blank" src="https://matplotlib.org/_static/logo2_compressed.svg" width=200>](https://matplotlib.org/)[<img target="_blank" src="https://numpy.org/images/logos/numpy.svg" width=200>](https://numpy.org/)[<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/)[<img target="_blank" src="https://seaborn.pydata.org/" width=200>](https://seaborn.pydata.org/)
  

@@ -6,7 +6,7 @@
   * [Installation](#installation)
   * [About files](#about-files)
   * [Technical Approach](#technical-approach)
-  * [Technologies/Libraries Used](#technologies/libraries-used)
+  * [Technologies/Libraries Used](#technologieslibraries-used)
   * [Team](#team)
   * [Credits](#credits)
   
@@ -60,7 +60,7 @@ pip install -r requirements.txt
 [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=100>](https://scikit-learn.org/stable/)[<img target="_blank" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width=100>](https://seaborn.pydata.org/)
 
 ## Team
-[![Yash Vora](https://avatars2.githubusercontent.com/u/40065133?s=460&v=4)]|
+<img src="https://avatars2.githubusercontent.com/u/40065133?s=460&v=4" width="200" height="200">|
 -|
 Yash Vora
 

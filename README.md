@@ -65,6 +65,6 @@ pip install -r requirements.txt
 Yash Vora
 
 ## Credits
-I want to give massive credits to the HackerEarth team without whom this project wouldn't have been possible.
+I want to give massive a shout-out to the HackerEarth team without whom this project wouldn't have been possible.
 
  

@@ -8,7 +8,6 @@
   * [Technical Approach](#technical-approach)
   * [Technologies/Libraries Used](#technologieslibraries-used)
   * [Team](#team)
-  * [Credits](#credits)
   
 ## Problem Statement
 This problem statement was part of a HackerEarth competition called "HackerEarth Machine Learning challenge: Adopt a buddy".
@@ -62,8 +61,5 @@ pip install -r requirements.txt
 <img src="https://avatars2.githubusercontent.com/u/40065133?s=460&v=4" width="200" height="200">|
 -|
 Yash Vora
-
-## Credits
-I want to give massive a shout-out to the HackerEarth team without whom this project wouldn't have been possible.
 
  
